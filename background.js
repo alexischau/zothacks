@@ -4,7 +4,7 @@ var modalCloseBtn = document.createElement("input");
 modalCloseBtn.value = "CLOSE";
 modalCloseBtn.id = "close-modal";
 modalCloseBtn.type = "submit";
-
+  
 
 // Creating canvas
 var canvas = document.createElement("canvas")
